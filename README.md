@@ -1,0 +1,2 @@
+# SimpleEQ
+JuceCpp Audio Plugin
