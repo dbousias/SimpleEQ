@@ -1,2 +1,5 @@
 **/Builds
 **/JuceLibraryCode
+**/.vs
+**/.vscode
+**/CppProperties.json
